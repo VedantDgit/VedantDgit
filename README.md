@@ -1,10 +1,9 @@
 ## Hi there 👋
+- 😄 Pronouns: He / him
 - 🔭 I’m currently working on Machine learning, Neural Networks, Gen AI
 - 🌱 I’m currently learning Java, Python 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: vedantd400@gmail.com
+- ⚡ My fact: Being Happy
 <!--
 **VedantDgit/VedantDgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
