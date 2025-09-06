@@ -7,6 +7,8 @@
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-deshmukh-9713a2212/)
+
+## Skills
 <!--
 **VedantDgit/VedantDgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
