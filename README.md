@@ -4,7 +4,7 @@
 
 - 🎓 B.Tech CSE (AI & ML) Student at VIT Bhopal University
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Development
-- 🔭 Currently working on **Machine Learning, Deep Learning, Computer Vision, and Generative AI**
+- 🔭 Currently working on **Machine Learning, Deep Learning, Computer Vision, and Generative AI, CRM **
 - 🌱 Currently learning **Data Structures & Algorithms, Java, Python, System Design, and LLM Applications**
 - 💡 Interested in **AI/ML, Full Stack Development, and Cloud Computing**
 - 📫 Reach me at **vedantd400@gmail.com**
@@ -12,6 +12,12 @@
 
 ---
 ## Portfolio Website : (https://portfolio-vedant-drab.vercel.app/)
+---
+## 📄 NimbleGTM CRM Resume 
+
+👉 **[Vedant_NimbleGTM_CRM.pdf](https://drive.google.com/file/d/1s6XFMjoNqoOJObBxvcBAIYYaFk0MkGc6/view?usp=sharing)**
+
+---
 
 ## 🌐 Connect with Me
 
