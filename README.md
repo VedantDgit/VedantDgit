@@ -13,11 +13,8 @@
 ---
 ## Portfolio Website : (https://portfolio-vedant-drab.vercel.app/)
 ---
-## 📄 NimbleGTM CRM Resume 
 
-👉 **[Vedant_NimbleGTM_CRM.pdf](https://drive.google.com/file/d/1s6XFMjoNqoOJObBxvcBAIYYaFk0MkGc6/view?usp=sharing)**
 
----
 
 ## 🌐 Connect with Me
 
