@@ -15,7 +15,9 @@
 <a href="https://github.com/VedantDgit"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="mailto:vedantd400@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=VedantDgit&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
+<p align="center">
+  <img src="https://views-counter.vercel.app/badge?pageId=VedantDgit%2Fprofile" alt="Profile Views"/>
+</p>
 
 </div>
 
