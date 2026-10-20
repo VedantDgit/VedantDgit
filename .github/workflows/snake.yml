@@ -24,11 +24,9 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Verify generated SVG
-        run: |
-          test -s dist/github-contribution-grid-snake.svg
-          head -c 200 dist/github-contribution-grid-snake.svg
+        run: test -s dist/github-contribution-grid-snake.svg
 
-      - name: Publish generated SVG
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
