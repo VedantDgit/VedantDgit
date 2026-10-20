@@ -152,13 +152,23 @@ A project focused on CRM workflows, sales-process automation, and business opera
 
 ---
 
-## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VedantDgit/VedantDgit/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+<h2>🐍 GitHub Contribution Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VedantDgit/VedantDgit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VedantDgit/VedantDgit/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/VedantDgit/VedantDgit/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
 
 </div>
+
 
 ---
 
