@@ -144,33 +144,10 @@ A project focused on CRM workflows, sales-process automation, and business opera
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantDgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=VedantDgit&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-
-<div align="center">
-
-<h2>🐍 GitHub Contribution Snake</h2>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/VedantDgit/VedantDgit/output/github-contribution-grid-snake-dark.svg">
-  <img
-    src="https://raw.githubusercontent.com/VedantDgit/VedantDgit/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%">
-</picture>
-
-</div>
 
 
 ---
+
 
 ## 🎯 Current Focus
 
